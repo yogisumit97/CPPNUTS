@@ -11,7 +11,7 @@ using namespace std;
 int arr5[3]; // global array - automatically 0 initialized.
 // above means 3 elements of int data types : in continuous memory allocation.
 
-int main() {
+int Arr_main() {
     int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; // 0 based indexing
 
     cout << arr[2] << endl; // should print 3. // accessing array

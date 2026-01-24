@@ -8,11 +8,12 @@ c++ is -> statically typed, free form, compiled , general purpose language.
 gaming engines, embedded, software development, speed of execution(less overhead)
 */
 
-#include <iostream>
-using namespace std;
+#include <iostream> // header file - include relevant functionalities
+using namespace std; //std = standard namespace
 
 int main() {
     cout<< "First program !!" << endl;
+    return 0;
 }
 
 

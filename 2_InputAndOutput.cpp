@@ -9,7 +9,16 @@ cin is used with >> (stream extraction operator)
 cout is used with << (stream insertion operator)
 */
 
-
+/*
+ *Escape sequences : (used as some of the chars are already used in syntax so how to tell if you want
+ *to print it or not? )
+    newline escape sequence : \n
+    tab : \t
+    backspace : \b
+    single quotation mark :  \'
+    double quotation mark : \"
+    backslash : \\
+*/
 #include <iostream>
 using namespace std;
 
@@ -32,7 +41,7 @@ int IO_main() {
 }
 
 
-/*Trap :
+/*Interview Trap :
 When mixing formatted input (cin >>) with line-based input (getline()),
 unexpected empty strings may be read.
 This occurs because cin >> extracts only the required token

@@ -29,3 +29,8 @@ int INTRO_main() { // function - returns integer. one main function only in a pr
 }
 
 
+// Multiline comment syntax in C++:
+// /*
+//    This is a multiline comment
+//    It can span multiple lines
+// */

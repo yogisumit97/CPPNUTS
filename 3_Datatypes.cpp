@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int DT_main() {
     bool b = true; // boolean data type, 1 Byte
     char c = 'A'; // character data type, 1 Byte
     int x = 10; // integer data type,

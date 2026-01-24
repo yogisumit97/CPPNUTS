@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(CPPNUTS 1_Introduction.cpp
         2_InputAndOutput.cpp
-        3_Datatypes.cpp)
+        3_Datatypes.cpp
+        4_ReferenceVariable.cpp
+        5_Array.cpp)

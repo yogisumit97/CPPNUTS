@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace  std;
 
-int main() {
+int arith_main() {
     int x = 10;
     int y = 3;
     cout << x  + y << endl;
